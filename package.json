@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ShubhamKhangar089.React-app-host-s3.github.io/React-app-host-s3",
+  "homepage": "https://ShubhamKhangar089.github.io/React-app-host-s3",
   "scripts": {
     "deploy": "gh-pages -d build",
     "dev": "vite",
